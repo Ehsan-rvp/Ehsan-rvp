@@ -76,6 +76,7 @@ I have a strong interest in **emerging technologies**, especially **Artificial I
 
 - 💬 Telegram: [@devbluei](https://t.me/devbluei)
 - 🖼 Gravatar: https://gravatar.com/resilientae0f88e5c4
+- 📧 Email: ehsan.rvp85@gmail.com
 - 💻 GitHub: https://github.com/Ehsan-rvp
 
 ---
