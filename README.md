@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 About Me | درباره من
+## 👨‍💻 About Me
 
 🇬🇧 **English**
 
@@ -23,17 +23,6 @@ For Python, I build **small daily projects** after each learning session and upl
 I'm also learning **IoT**, mainly to apply C++ in real-world scenarios.
 
 I have a strong interest in **emerging technologies**, especially **Artificial Intelligence** and **AIoT**, and I aim to pursue them seriously in the future.
-
-🇮🇷 **فارسی**
-
-من **محمد احسان رجائی** هستم (با نیک‌نیم **devblue**).  
-۱۹ سالمه و در حال حاضر دانشجوی رشته **مهندسی کامپیوتر** هستم.
-
-برنامه‌نویس مبتدی **Python** و **++C** هستم و هر روز سعی می‌کنم مسیر یادگیریم رو ادامه بدم.  
-برای پایتون، بعد از یادگیری هر روز **پروژه‌های کوچیک** می‌نویسم و اینجا منتشر می‌کنم (خوشحال می‌شم بهشون سر بزنی 👋).  
-همزمان در حال یادگیری **IoT** هم هستم تا ++C رو به شکل کاربردی‌تری استفاده کنم.
-
-به فناوری‌های نوظهور مثل **هوش مصنوعی** و **AIoT** علاقه زیادی دارم و دوست دارم به صورت جدی دنبالشون کنم.
 
 ---
 
@@ -78,6 +67,7 @@ I have a strong interest in **emerging technologies**, especially **Artificial I
 - 🖼 Gravatar: https://gravatar.com/resilientae0f88e5c4
 - 📧 Email: ehsan.rvp85@gmail.com
 - 💻 GitHub: https://github.com/Ehsan-rvp
+- ⏹️ Linkedin: https://www.linkedin.com/in/bluedev/
 
 ---
 
