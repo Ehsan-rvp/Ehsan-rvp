@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm M. Ehsan Rajaei</h1>
-<h3 align="center">Beginner Python & C++ Developer | CS Student | Future AI & IoT Explorer 🚀</h3>
+<h3 align="center">Beginner Python Developer | CS Student | Future AI Explorer 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ehsan-rvp&label=Profile%20views&color=0e75b6&style=flat" alt="Ehsan-rvp" />
@@ -13,23 +13,20 @@
 
 ## 👨‍💻 About Me
 
-🇬🇧 **English**
-
-My full name is **Mohammad Ehsan Rajaei** (aka **devblue** in the programming world).  
+My full name is **Mohammad Ehsan Rajaei** (aka **blue.dev** in the programming world & social media!).  
 I'm a **19-year-old Computer Engineering student** who is passionate about learning, building, and improving every single day.
 
-I'm currently a **beginner Python and C++ programmer**.  
-For Python, I build **small daily projects** after each learning session and upload them here on GitHub — feel free to check them out 👀  
-I'm also learning **IoT**, mainly to apply C++ in real-world scenarios.
+I'm currently a **beginner Python programmer**.  
+For Python, I build **small daily projects** after each learning session and upload them here on GitHub — feel free to check them out 👀
 
-I have a strong interest in **emerging technologies**, especially **Artificial Intelligence** and **AIoT**, and I aim to pursue them seriously in the future.
+I have a strong interest in **emerging technologies**, especially **Artificial Intelligence**, and I aim to pursue them seriously in the future.
 
 ---
 
 ## 🎓 Education & Experience
 
 - 🎓 Computer Engineering Student  
-- 🧠 Participant in **MCI Talent Bootcamp** (AI & IoT)  
+- 🧠 Participant in **MCI Talent Bootcamp** (AI)  
   🔗 https://kibordevents.com/
 - 📘 Algorithmic Thinking Course – Ferdowsi University of Mashhad (Part School)
 - 🧪 Python Logic & Flow Certificate – Coddy Team Academy
@@ -42,7 +39,6 @@ I have a strong interest in **emerging technologies**, especially **Artificial I
 <p align="left">
   <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-Beginner-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-Learning-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-Beginner-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-Learning-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -63,11 +59,11 @@ I have a strong interest in **emerging technologies**, especially **Artificial I
 
 ## 🔗 Connect with Me
 
+- ⏹️ Linkedin: https://www.linkedin.com/in/bluedev/
 - 💬 Telegram: [@devbluei](https://t.me/devbluei)
 - 🖼 Gravatar: https://gravatar.com/resilientae0f88e5c4
 - 📧 Email: ehsan.rvp85@gmail.com
 - 💻 GitHub: https://github.com/Ehsan-rvp
-- ⏹️ Linkedin: https://www.linkedin.com/in/bluedev/
 
 ---
 
