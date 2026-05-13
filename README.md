@@ -28,6 +28,8 @@ I have a strong interest in **emerging technologies**, especially **Artificial I
 - 🎓 Computer Engineering Student  
 - 🧠 Participant in **MCI Talent Bootcamp** (AI)  
   🔗 https://kibordevents.com/
+- 💯 Participant in **100 Days of Code: Python Bootcamp** by Dr. Angela Yu – The App Brewery  
+  🔗 https://www.appbrewery.com/
 - 📘 Algorithmic Thinking Course – Ferdowsi University of Mashhad (Part School)
 - 🧪 Python Logic & Flow Certificate – Coddy Team Academy
 - 🏅 Python Fundamentals Certificate – Kaggle
