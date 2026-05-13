@@ -45,11 +45,11 @@ I have a strong interest in **emerging technologies**, especially **Artificial I
 
 ---
 
-## 📊 GitHub Stats
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ehsan-rvp&show_icons=true&theme=tokyonight" />
-</p>
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ehsan-rvp&theme=tokyonight" />
