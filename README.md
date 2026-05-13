@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Ehsan-rvp.png" width="150" style="border-radius:50%" />
+  <img src="https://raw.githubusercontent.com/Ehsan-rvp/Ehsan-rvp/main/assets/photo_۲۰۲۵-۰۷-۲۳_۰۰-۱۵-۰۹.jpg" width="180"/>
 </p>
 
 ---
